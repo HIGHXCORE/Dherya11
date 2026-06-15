@@ -4,7 +4,7 @@
 
 💡 Aspiring Developer: Passionate about solving problems and building efficient solutions.
 
-🌱 Currently Learning: Enhancing my skills in python and game dev
+🌱 Currently Learning: Enhancing my skills in data engineering
 
 💼 Open to Collaborations: Looking forward to working on innovative and meaningful projects.
 
