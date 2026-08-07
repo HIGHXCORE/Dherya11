@@ -1,4 +1,4 @@
-👋 Hi, I'm @Dherya11!
+👋 Hi, I'm @HIGHXCORE!
 
 👀 About Me:
 
