@@ -1,13 +1,28 @@
-👋 Hi, I'm @Dherya11!
+# Hey, I'm Dherya 👋
 
-👀 About Me:
+First-year CS student building toward **Data Engineering + Cloud** roles — learning in public, one project at a time.
 
-💡 Aspiring Developer: Passionate about solving problems and building efficient solutions.
+## 🧠 What I'm doing right now
 
-🌱 Currently Learning: Enhancing my skills in data engineering
+- 📊 Deep in SQL — window functions, CTEs, query optimization (via Luke Barousse's DE course)
+- ☁️ Next up: Azure, GCP, and cloud fundamentals, then the DataTalksClub DE Zoomcamp
 
-💼 Open to Collaborations: Looking forward to working on innovative and meaningful projects.
+## 🛠️ Stack I'm working with
 
-📧 Reach Me At: nishubedi655@gmail.com | LinkedIn : https://www.linkedin.com/in/dherya-bedi-741567368/
+`SQL` `Python` `Shell` `DuckDB` `Git/GitHub` `Linux`
 
-⚡ Fun Fact: I like electronics as well and enjoy getting involved in unique tech projects.
+## 📌 Worth checking out
+
+- [`SQL_DATA_ENGINEERING_PROJECTS`](https://github.com/Dherya11/SQL_DATA_ENGINEERING_PROJECTS) — SQL practice, queries, and DE fundamentals
+
+## 🎯 Goal
+
+Landing a data or cloud engineering internship — building real, working projects over collecting certificates.
+
+## 📬 Reach me
+
+- Email: nishubedi655@gmail.com
+- LinkedIn: [dherya-bedi](https://www.linkedin.com/in/dherya-bedi-741567368/)
+
+---
+*Also into electronics and retro tech on the side ⚡*
