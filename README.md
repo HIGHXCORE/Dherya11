@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dherya11&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dherya11&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HIGHXCORE&show_icons=true&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIGHXCORE&hide_border=true&theme=default" width="48%" />
 </p>
 
 ### 🎯 Goal
