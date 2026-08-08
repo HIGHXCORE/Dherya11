@@ -4,7 +4,7 @@ First-year CS student building toward **Data Engineering + Cloud** roles — lea
 
 ## 🧠 What I'm doing right now
 
-- 📊 Deep in SQL — window functions, CTEs, query optimization (via Luke Barousse's DE course)
+- 📊 Deep in SQL — window functions, CTEs, query optimization (via DE course)
 - ☁️ Next up: Azure, GCP, and cloud fundamentals, then the DataTalksClub DE Zoomcamp
 
 ## 🛠️ Stack I'm working with
