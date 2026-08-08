@@ -18,7 +18,7 @@
 
 ### 🧠 What I'm doing right now
 
-- 📊 Deep in **SQL** — window functions, CTEs, query optimization (via Luke Barousse's DE course)
+- 📊 Deep in **SQL** — window functions, CTEs, query optimization (via DE course)
 - ☁️ Next up: **Azure**, **GCP**, and cloud fundamentals, then the DataTalksClub DE Zoomcamp
 - 🏗️ Building real projects, not just collecting certificates
 
